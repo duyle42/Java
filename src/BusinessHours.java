@@ -1,4 +1,4 @@
-package JavaPractices;
+package JavaPractices.src;
 
 import java.time.DayOfWeek;
 import java.time.Duration;
@@ -91,6 +91,7 @@ public class BusinessHours {
     }
 
     public static void main(String args[]) {
+        /*
         System.out.println(getBusinessHours(LocalDateTime.parse("2022-09-19T11:00:00.000"),
                 LocalDateTime.parse("2022-09-19T15:00:00.000")));
         System.out.println(getBusinessHours(LocalDateTime.parse("2022-09-19T06:00:00.000"),
@@ -104,5 +105,6 @@ public class BusinessHours {
                 LocalDateTime.parse("2022-09-19T15:00:00.000")));
         System.out.println(getBusinessHours(LocalDateTime.parse("2022-09-17T06:00:00.000"),
                 LocalDateTime.parse("2022-09-19T15:00:00.000")));
+        */
     }
 }
