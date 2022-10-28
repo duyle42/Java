@@ -1,5 +1,3 @@
-package JavaPractices.src;
-
 import java.time.DayOfWeek;
 import java.time.Duration;
 import java.time.LocalDate;

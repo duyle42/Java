@@ -1,5 +1,3 @@
-package JavaPractices.src;
-
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
